@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://redshift14.github.io/front-end-mentor-fylo-data-storage-component)
+- Live Site URL: [Github Pages](https://redshift14.github.io/front-end-mentor-fylo-data-storage-component)
 
 ## My process
 
